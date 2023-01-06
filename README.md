@@ -1,5 +1,5 @@
 <div align="center">
-  <img id="readManga" width="96" alt="readManga" src="repository_icon/icon.png">
+  <img id="readManga" width="96" alt="readManga" src="repository_icon/icon.svg">
   <p>「 readManga - 看点漫画！」</p>
 </div>
 
