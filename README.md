@@ -1,9 +1,13 @@
 <div align="center">
-  <img id="readManga" width="96" alt="readManga" src="repository_icon/icon.svg">
+  <img width="96" alt="readManga" src="https://raw.githubusercontent.com/Cierra-Runis/readManga/master/repository_icon/icon.svg">
   <p>「 readManga - 看点漫画！」</p>
 </div>
 
+`本 README 文件最后更新于：2023-01-10 23:11:16`
+
 [📚 简介](#-简介)
+
+[📸 示例](#-示例)
 
 [📦 使用方式](#-使用方式)
 
@@ -24,6 +28,10 @@
 |      名称      |   译名   |                 作者                  |      简介      |
 | :------------: | :------: | :-----------------------------------: | :------------: |
 | うつ病になった | 郁积于身 | [藤田治](https://twitter.com/fjt_036) | 作者的个人经历 |
+
+# 📸 示例
+
+![screenshots_1](https://raw.githubusercontent.com/Cierra-Runis/readManga/master/img/screenshots_1.png)
 
 # 📦 使用方式
 
